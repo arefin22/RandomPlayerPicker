@@ -1,0 +1,34 @@
+[
+      {
+        "id": 1,
+        "name": "Virat Kohli",
+        "specialty": "Batsman",
+        "image": "https://example.com/virat_kohli.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Kane Williamson",
+        "specialty": "Batsman",
+        "image": "https://example.com/kane_williamson.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Jasprit Bumrah",
+        "specialty": "Bowler",
+        "image": "https://example.com/jasprit_bumrah.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Steve Smith",
+        "specialty": "Batsman",
+        "image": "https://example.com/steve_smith.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Ben Stokes",
+        "specialty": "All-rounder",
+        "image": "https://example.com/ben_stokes.jpg"
+      }
+    ]
+
+  
