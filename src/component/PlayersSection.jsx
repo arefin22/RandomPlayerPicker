@@ -17,7 +17,7 @@ const PlayersSection = () => {
         <div className="flex justify-center items-center gap-2">
             {
                 players?.map(player => (
-                    <Card key={player.id} name={player.name} />
+                    <Card key={player.id} name={player.name} image={player.image} />
                 ))
             }
         </div>

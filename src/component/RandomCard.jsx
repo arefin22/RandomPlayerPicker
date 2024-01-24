@@ -3,9 +3,7 @@ import Card from "./card";
 
 const RandomCard = () => {
   const [players, setPlayers] = useState([]);
-
-  // const [remainingPlayers, setRemainingPlayers] = useState([]);
-  let selectedPlayer = "";
+  const [selectedPlayer, setSelectedPlayer] = useState([]);
 
   useEffect(() => {
     fetch("./player.JSON")
@@ -13,25 +11,30 @@ const RandomCard = () => {
       .then((data) => setPlayers(data));
   }, []);
 
-  // const RandomNumber = Math.random()
-
   const HandleRandomNumber = () => {
-    const randomNumber = parseInt(Math.random() * players?.length);
-    console.log(randomNumber);
-    selectedPlayer = players[randomNumber];
-    console.log(selectedPlayer);
-    let remaining = players?.filter(
+    if (players.length === 0) {
+      return;
+    }
+
+    const randomNumber = parseInt(Math.random() * players.length);
+    const updatedPlayers = players?.filter(
       (player) => selectedPlayer?.id !== player?.id
     );
-    setPlayers(remaining);
-    console.log(remaining);
+    setPlayers(updatedPlayers);
+
+    const recentlySelectedPlayer = players[randomNumber];
+    setSelectedPlayer(recentlySelectedPlayer);
   };
 
   return (
     <div>
       <button onClick={HandleRandomNumber}>Random Number</button>
 
-      <Card name={selectedPlayer?.name}  />
+      {selectedPlayer && (
+        <>
+          <Card name={selectedPlayer.name} image={selectedPlayer.image} />
+        </>
+      )}
     </div>
   );
 };

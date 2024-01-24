@@ -3,31 +3,31 @@
         "id": 1,
         "name": "Virat Kohli",
         "specialty": "Batsman",
-        "image": "https://example.com/virat_kohli.jpg"
+        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
       },
       {
         "id": 2,
         "name": "Kane Williamson",
         "specialty": "Batsman",
-        "image": "https://example.com/kane_williamson.jpg"
+        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
       },
       {
         "id": 3,
         "name": "Jasprit Bumrah",
         "specialty": "Bowler",
-        "image": "https://example.com/jasprit_bumrah.jpg"
+        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
       },
       {
         "id": 4,
         "name": "Steve Smith",
         "specialty": "Batsman",
-        "image": "https://example.com/steve_smith.jpg"
+        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
       },
       {
         "id": 5,
         "name": "Ben Stokes",
         "specialty": "All-rounder",
-        "image": "https://example.com/ben_stokes.jpg"
+        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
       }
     ]
 

@@ -6,8 +6,8 @@ const Card = (props) => {
         <div>
           <figure>
             <img
-              src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
-              alt="Movie"
+              src={props.image}
+              alt={props.name}
             />
           </figure>
         </div>
