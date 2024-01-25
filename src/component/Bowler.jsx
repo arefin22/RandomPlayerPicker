@@ -15,7 +15,7 @@ const Bowler = () => {
     if (players.length === 0) {
       return;
     }
-    
+
     const randomNumber = parseInt(Math.random() * players.length);
 
     const recentlySelectedPlayer = players[randomNumber];
@@ -32,7 +32,7 @@ const Bowler = () => {
         <div className="w-7/12">
           <div className="flex justify-center items-center gap-2">
             {players?.map((player) => (
-              <Card key={player.id} name={player.name} image={player.image} />
+              <Card key={player.id} name={player.name} image={player.image} specialty={player.specialty} />
             ))}
           </div>
         </div>
@@ -47,7 +47,7 @@ const Bowler = () => {
         <div className="w-3/12">
           {selectedPlayer && (
             <>
-              <Card name={selectedPlayer.name} image={selectedPlayer.image} />
+              <Card name={selectedPlayer.name} image={selectedPlayer.image} specialty={selectedPlayer.specialty} />
             </>
           )}
         </div>
