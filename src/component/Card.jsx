@@ -2,10 +2,11 @@
 const Card = (props) => {
   return (
     <div>
-      <div className="card card-side bg-base-100 shadow-xl">
-        <div>
+      <div className="max-h-24 flex items-center justify-center rounded-lg bg-white shadow-xl">
+        <div className="max-w-14 max-h-24 px-1">
           <figure>
             <img
+            className="rounded-lg"
               src={props.image}
               alt={props.name}
             />

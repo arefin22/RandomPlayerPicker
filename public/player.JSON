@@ -1,34 +1,124 @@
-[
-      {
-        "id": 1,
-        "name": "Virat Kohli",
-        "specialty": "Batsman",
-        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Kane Williamson",
-        "specialty": "Batsman",
-        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Jasprit Bumrah",
-        "specialty": "Bowler",
-        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Steve Smith",
-        "specialty": "Batsman",
-        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Ben Stokes",
-        "specialty": "All-rounder",
-        "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
-      }
-    ]
-
-  
+{
+  "batsman": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kane Williamson",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jasprit Bumrah",
+      "specialty": "Bowler",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steve Smith",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ben Stokes",
+      "specialty": "All-rounder",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    }
+  ],
+  "bowler": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kane Williamson",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jasprit Bumrah",
+      "specialty": "Bowler",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steve Smith",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    }
+  ],
+  "weeketkeeper": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kane Williamson",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jasprit Bumrah",
+      "specialty": "Bowler",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steve Smith",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ben Stokes",
+      "specialty": "All-rounder",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    }
+  ],
+  "allrounder": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kane Williamson",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jasprit Bumrah",
+      "specialty": "Bowler",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steve Smith",
+      "specialty": "Batsman",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ben Stokes",
+      "specialty": "All-rounder",
+      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+    }
+  ]
+}

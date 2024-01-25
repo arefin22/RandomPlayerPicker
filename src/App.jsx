@@ -1,52 +1,17 @@
-import { useEffect, useState } from "react";
 import "./App.css";
-import Card from "./component/card";
+import BatsMan from "./component/BatsMan";
+import Bowler from "./component/Bowler";
 
 function App() {
-  const [players, setPlayers] = useState([]);
-  const [selectedPlayer, setSelectedPlayer] = useState([]);
-
-  useEffect(() => {
-    fetch("./player.JSON")
-      .then((res) => res.json())
-      .then((data) => setPlayers(data));
-  }, []);
-
-  const HandleRandomNumber = () => {
-    if (players.length === 0) {
-      return;
-    }
-
-    const randomNumber = parseInt(Math.random() * players.length);
-    const updatedPlayers = players?.filter(
-      (player) => selectedPlayer?.id !== player?.id
-    );
-    setPlayers(updatedPlayers);
-
-    const recentlySelectedPlayer = players[randomNumber];
-    setSelectedPlayer(recentlySelectedPlayer);
-  };
-
   return (
     <>
-      <div className="w-full flex justify-between items-center mx-auto text-center">
-        <div className="w-7/12">
-          <div className="flex justify-center items-center gap-2">
-            {players?.map((player) => (
-              <Card key={player.id} name={player.name} image={player.image} />
-            ))}
-          </div>
-        </div>
-        <div className="w-1/12">
-          <button onClick={HandleRandomNumber}>Random Number</button>
-        </div>
-        <div className="w-3/12">
-          {selectedPlayer && (
-            <>
-              <Card name={selectedPlayer.name} image={selectedPlayer.image} />
-            </>
-          )}
-        </div>
+      <div>
+        <h2 className="text-xl text-center p-4">Bats-Man</h2>
+        <BatsMan />
+      </div>
+      <div>
+        <h2 className="text-xl text-center p-4">Bowler</h2>
+        <Bowler />
       </div>
     </>
   );
