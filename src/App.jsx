@@ -1,6 +1,5 @@
 import "./App.css";
 import BatsMan from "./component/BatsMan";
-import Bowler from "./component/Bowler";
 
 function App() {
   return (
@@ -11,10 +10,6 @@ function App() {
         <div>
           <BatsMan />
         </div>
-      </div>
-      <div>
-        <h2 className="text-xl text-center p-4">Bowler</h2>
-        <Bowler />
       </div>
     </div>
   );
