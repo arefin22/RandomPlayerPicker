@@ -33,7 +33,7 @@ const BatsMan = () => {
       <div className="w-full flex justify-between items-center mx-auto text-center">
         <div className="w-7/12">
           <div className="border-2 border-slate-300 p-4 rounded-xl">
-            <div className="grid grid-cols-5 justify-center items-center gap-2">
+            <div className="grid grid-cols-5 justify-center items-center gap-3">
               {players?.map((player) => (
                 <Card
                   key={player.id}
@@ -50,7 +50,7 @@ const BatsMan = () => {
             onClick={HandleRandomNumber}
             className="btn btn-ghost m-6 btn-outline"
           >
-            Player Selector
+            Pick Player
           </button>
 
           {selectedPlayer && (

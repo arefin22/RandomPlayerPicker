@@ -3,12 +3,11 @@
 @tailwind utilities;
 
 .gradient-background {
-  background: rgb(0, 21, 82);
+  background: rgb(0, 0, 60);
   background: linear-gradient(
     90deg,
-    rgba(0, 21, 82, 1) 0%,
-    rgba(36, 42, 59, 1) 54%,
-    rgba(0, 0, 0, 1) 100%
+    rgba(0, 0, 60, 1) 0%,
+    rgba(54, 54, 54, 1) 100%
   );
   /* Additional styling if needed */
 }
