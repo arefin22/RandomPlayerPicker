@@ -8,22 +8,23 @@ const Bowler = () => {
   useEffect(() => {
     fetch("./player.JSON")
       .then((res) => res.json())
-      .then((data) => setPlayers(data.bowler));
+      .then((data) => setPlayers(data?.bowler));
   }, []);
 
   const HandleRandomNumber = () => {
     if (players.length === 0) {
       return;
     }
-
+    
     const randomNumber = parseInt(Math.random() * players.length);
-    const updatedPlayers = players?.filter(
-      (player) => selectedPlayer?.id !== player?.id
-    );
-    setPlayers(updatedPlayers);
 
     const recentlySelectedPlayer = players[randomNumber];
     setSelectedPlayer(recentlySelectedPlayer);
+
+    const updatedPlayers = players.filter(
+      (player) => recentlySelectedPlayer?.id !== player?.id
+    );
+    setPlayers(updatedPlayers);
   };
   return (
     <div>

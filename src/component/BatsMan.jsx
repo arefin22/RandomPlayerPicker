@@ -8,7 +8,7 @@ const BatsMan = () => {
   useEffect(() => {
     fetch("./player.JSON")
       .then((res) => res.json())
-      .then((data) => setPlayers(data.batsman));
+      .then((data) => setPlayers(data?.batsman));
   }, []);
 
   const HandleRandomNumber = () => {
@@ -17,13 +17,14 @@ const BatsMan = () => {
     }
 
     const randomNumber = parseInt(Math.random() * players.length);
-    const updatedPlayers = players?.filter(
-      (player) => selectedPlayer?.id !== player?.id
-    );
-    setPlayers(updatedPlayers);
 
     const recentlySelectedPlayer = players[randomNumber];
     setSelectedPlayer(recentlySelectedPlayer);
+
+    const updatedPlayers = players.filter(
+      (player) => recentlySelectedPlayer?.id !== player?.id
+    );
+    setPlayers(updatedPlayers);
   };
 
   return (
