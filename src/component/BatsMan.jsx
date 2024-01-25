@@ -48,7 +48,7 @@ const BatsMan = () => {
         <div className="w-3/12">
           <button
             onClick={HandleRandomNumber}
-            className="btn btn-ghost m-6 btn-outline"
+            className="btn btn-active m-6 btn-outline"
           >
             Pick Player
           </button>
