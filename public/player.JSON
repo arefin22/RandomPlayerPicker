@@ -2,33 +2,84 @@
   "batsman": [
     {
       "id": 1,
-      "name": "Virat Kohli",
-      "specialty": "Batsman",
-      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
     },
     {
       "id": 2,
-      "name": "Kane Williamson",
-      "specialty": "Batsman",
-      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
     },
     {
       "id": 3,
-      "name": "Jasprit Bumrah",
-      "specialty": "Bowler",
-      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
     },
     {
       "id": 4,
-      "name": "Steve Smith",
-      "specialty": "Batsman",
-      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
     },
     {
       "id": 5,
-      "name": "Ben Stokes",
-      "specialty": "All-rounder",
-      "image": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg"
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
+    },
+    {
+      "id": 6,
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
+    },
+    {
+      "id": 7,
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
+    },
+    {
+      "id": 8,
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
+    },
+    {
+      "id": 9,
+      "name": "Anwar Hossain",
+      "photo": "https://i.ibb.co/F5mCsDQ/alexander-grey-Nk-QD-RHhbv-Y-unsplash.jpg",
+      "designation": "SDE",
+      "office": "Procurement",
+      "speciality": "All-Rounder",
+      "basePrice": "500009"
     }
   ],
   "bowler": [

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Card from "./card";
+import CardSinglePlayer from "./CardSinglePlayer";
 
 const BatsMan = () => {
   const [players, setPlayers] = useState([]);
@@ -31,24 +32,37 @@ const BatsMan = () => {
     <div>
       <div className="w-full flex justify-between items-center mx-auto text-center">
         <div className="w-7/12">
-          <div className="flex justify-center items-center gap-2">
-            {players?.map((player) => (
-              <Card key={player.id} name={player.name} image={player.image} />
-            ))}
+          <div className="border-2 border-slate-300 p-4 rounded-xl">
+            <div className="grid grid-cols-5 justify-center items-center gap-2">
+              {players?.map((player) => (
+                <Card
+                  key={player.id}
+                  name={player.name}
+                  image={player.photo}
+                  specialty={player.speciality}
+                />
+              ))}
+            </div>
           </div>
         </div>
-        <div className="w-1/12">
+        <div className="w-3/12">
           <button
             onClick={HandleRandomNumber}
-            className="btn btn-ghost btn-outline"
+            className="btn btn-ghost m-6 btn-outline"
           >
             Player Selector
           </button>
-        </div>
-        <div className="w-3/12">
+
           {selectedPlayer && (
             <>
-              <Card name={selectedPlayer.name} image={selectedPlayer.image} />
+              <CardSinglePlayer
+                name={selectedPlayer.name}
+                image={selectedPlayer.photo}
+                designation={selectedPlayer.designation}
+                office={selectedPlayer.office}
+                specialty={selectedPlayer.speciality}
+                basePrice={selectedPlayer.basePrice}
+              ></CardSinglePlayer>
             </>
           )}
         </div>
