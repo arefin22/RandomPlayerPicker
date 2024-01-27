@@ -1,0 +1,148 @@
+{
+  "allrounder": [
+    {
+      "name": "Rajib",
+      "photo": "https://i.ibb.co/McZnvbm/All-A-1.jpg",
+      "designation": "Assistant Engineer",
+      "office": "Smart Meter Project",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Ratan",
+      "photo": "https://i.ibb.co/CB46Byp/All-A-2.jpg",
+      "designation": "Assistant Manager",
+      "office": "ICT",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Prince",
+      "photo": "https://i.ibb.co/87hRXYL/All-A-3.jpg",
+      "designation": "Doctor",
+      "office": "SE-1",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Mohin",
+      "photo": "https://i.ibb.co/SQ907w1/All-A-4.jpg",
+      "designation": "Security Guard",
+      "office": "SnD-4",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Siraj",
+      "photo": "https://i.ibb.co/X3LZNpP/All-A-5.jpg",
+      "designation": "Deputy Manager",
+      "office": "ICT",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Sajal",
+      "photo": "https://i.ibb.co/5v5bMfF/All-A-6.jpg",
+      "designation": "MLSS",
+      "office": "Rajshahi Project",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Anwar",
+      "photo": "https://i.ibb.co/RpBrFYx/All-A-7.jpg",
+      "designation": "Sub-Divisional Engineer",
+      "office": "Procurement",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Gulzar",
+      "photo": "https://i.ibb.co/2hykCVY/All-A-8.jpg",
+      "designation": "OPERATOR",
+      "office": "ICT",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Fahim",
+      "photo": "https://i.ibb.co/fpNdbz2/All-A-9.jpg",
+      "designation": "MLSS",
+      "office": "RAO",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Pappu Mia",
+      "photo": "https://i.ibb.co/Sn05j5H/All-BC-1.jpg",
+      "designation": "Junior Assistant Manager",
+      "office": "Rajshahi Project",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Alamin",
+      "photo": "https://i.ibb.co/jM20mVz/All-BC-2.jpg",
+      "designation": "Deputy Manager",
+      "office": "ICT",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Robiul",
+      "photo": "https://i.ibb.co/fFnzpMB/ALl-BC-3.jpg",
+      "designation": "Sub-Assistant Engineer",
+      "office": "SE(EE)",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Gazi",
+      "photo": "https://i.ibb.co/PD8qZ4K/All-BC-4.jpg",
+      "designation": "OPERATOR",
+      "office": "ICT",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Ashiq Iqbal",
+      "photo": "https://i.ibb.co/7QWKbch/All-BC-5.jpg",
+      "designation": "Deputy Manager",
+      "office": "DGM (Accounts)",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Al Masud",
+      "photo": "https://i.ibb.co/gDm75SM/All-BC-6.jpg",
+      "designation": "Meter Reader",
+      "office": "Kashiadanga",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Sumon",
+      "photo": "https://i.ibb.co/VY7CfVy/All-BC-7.jpg",
+      "designation": "Sub-Assistant Engineer",
+      "office": "Protection",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "MAHABUB SHEIKH",
+      "photo": "https://i.ibb.co/6WpPhM6/All-BC-8.jpg",
+      "designation": "Sub-Assistant Engineer",
+      "office": "SnD-2",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Sabbir",
+      "photo": "ALL_BC_9",
+      "designation": "MLSS",
+      "office": "RAO",
+      "speciality": "Allrounder",
+      "basePrice": "500000"
+    }
+  ]
+}

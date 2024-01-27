@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Card from "./card";
+// import Card from "./card";
 import CardSinglePlayer from "./CardSinglePlayer";
 
 const BatsMan = () => {
@@ -8,10 +8,10 @@ const BatsMan = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("./player.JSON")
+    fetch("./batsmen.json")
       .then((res) => res.json())
       .then((data) => {
-        setPlayers(data?.batsman);
+        setPlayers(data?.batsmen);
         setLoading(false);
       })
       .catch((error) => {
@@ -39,7 +39,7 @@ const BatsMan = () => {
   return (
     <div>
       <div className="w-full flex justify-between items-center mx-auto text-center">
-        <div className="w-7/12">
+        {/* <div className="w-7/12">
         {loading ? (
             <p>Loading...</p>
           ) : (
@@ -56,8 +56,8 @@ const BatsMan = () => {
             </div>
           </div>
           )}
-        </div>
-        <div className="w-3/12">
+        </div> */}
+        <div className="w-full">
           <button
             onClick={HandleRandomNumber}
             disabled={players.length === 0 || loading}
