@@ -1,66 +1,78 @@
 import { useEffect, useState } from "react";
-// import Card from "./card";
 import CardSinglePlayer from "./CardSinglePlayer";
 
 const BatsMan = () => {
-  const [players, setPlayers] = useState([]);
-  const [selectedPlayer, setSelectedPlayer] = useState([]);
+  const [playersByCategory, setPlayersByCategory] = useState({});
+  const [selectedPlayer, setSelectedPlayer] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     fetch("./batsmen.json")
       .then((res) => res.json())
       .then((data) => {
-        setPlayers(data?.batsmen);
+        const groupedPlayers = groupPlayersByCategory(data?.batsmen);
+        setPlayersByCategory(groupedPlayers);
         setLoading(false);
       })
       .catch((error) => {
         console.error("Error fetching data:", error);
-        setLoading(false); // Set loading to false in case of an error
+        setLoading(false);
       });
   }, []);
 
-  const HandleRandomNumber = () => {
-    if (players.length === 0) {
-      return;
+  const groupPlayersByCategory = (players) => {
+    return players.reduce((grouped, player) => {
+      const category = player.category || 'default';
+      if (!grouped[category]) {
+        grouped[category] = [];
+      }
+      grouped[category].push(player);
+      return grouped;
+    }, {});
+  };
+
+  const getRandomPlayer = (category) => {
+    const categoryPlayers = playersByCategory[category] || [];
+    if (categoryPlayers.length === 0) {
+      return null;
     }
 
-    const randomNumber = parseInt(Math.random() * players.length);
+    const randomNumber = parseInt(Math.random() * categoryPlayers.length);
+    return categoryPlayers[randomNumber];
+  };
 
-    const recentlySelectedPlayer = players[randomNumber];
-    setSelectedPlayer(recentlySelectedPlayer);
+  const HandleRandomNumber = () => {
+    const categories = Object.keys(playersByCategory);
+    let hasRemainingPlayers = false;
 
-    const updatedPlayers = players.filter(
-      (player) => recentlySelectedPlayer?.id !== player?.id
-    );
-    setPlayers(updatedPlayers);
+    for (const category of categories) {
+      const randomPlayer = getRandomPlayer(category);
+      if (randomPlayer) {
+        hasRemainingPlayers = true;
+        setSelectedPlayer(randomPlayer);
+        const updatedPlayers = playersByCategory[category].filter(
+          (player) => randomPlayer.id !== player.id
+        );
+        setPlayersByCategory({
+          ...playersByCategory,
+          [category]: updatedPlayers,
+        });
+        break;
+      }
+    }
+
+    if (!hasRemainingPlayers) {
+      alert("There are no more Bats man.");
+    }
   };
 
   return (
     <div>
       <div className="w-full flex justify-between items-center mx-auto text-center">
-        {/* <div className="w-7/12">
-        {loading ? (
-            <p>Loading...</p>
-          ) : (
-          <div className="border-2 border-slate-300 p-4 rounded-xl">
-            <div className="grid grid-cols-5 justify-center items-center gap-3">
-              {players?.map((player) => (
-                <Card
-                  key={player.id}
-                  name={player.name}
-                  image={player.photo}
-                  specialty={player.speciality}
-                />
-              ))}
-            </div>
-          </div>
-          )}
-        </div> */}
         <div className="w-full">
           <button
             onClick={HandleRandomNumber}
-            disabled={players.length === 0 || loading}
+            disabled={loading}
             className="btn bg-white m-6 text-slate-900 btn-outline"
           >
             Pick Player
