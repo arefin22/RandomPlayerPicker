@@ -1,0 +1,108 @@
+{
+  "wicketkeeper": [
+    {
+      "name": "Harun",
+      "photo": "https://i.ibb.co/FWMXm8G/Wk-1.jpg",
+      "designation": "Meter Reader",
+      "office": "SnD-3",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Rony Alam",
+      "photo": "https://i.ibb.co/Xj667GG/Wk-2.jpg",
+      "designation": "Manager",
+      "office": "DGM (Accounts)",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Mahbub Alam",
+      "photo": "https://i.ibb.co/xjyqCf1/Wk-3.jpg",
+      "designation": "Meter Reader",
+      "office": "Kashiadanga",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Hasan Ali",
+      "photo": "https://i.ibb.co/dLHLhX7/Wk-04.jpg",
+      "designation": "Deputy Manager",
+      "office": "Rajshahi Project",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Md. Jamiul Islam",
+      "photo": "https://i.ibb.co/bK2v3zm/Wk-5.jpg",
+      "designation": "Junior Assistant Manager",
+      "office": "HR & Admin",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Dipok",
+      "photo": "https://i.ibb.co/wrGs24q/Wk-6.jpg",
+      "designation": "Driver",
+      "office": "SDSI Project",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Minhaz",
+      "photo": "https://i.ibb.co/56mqKqD/Wk-7.jpg",
+      "designation": "Junior Assistant Manager",
+      "office": "ICT",
+      "speciality": "Wicketkeeper Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Bashar",
+      "photo": "https://i.ibb.co/RPDmFM5/Wk-8.jpg",
+      "designation": "Deputy Manager",
+      "office": "DGM (Accounts)",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Sayed",
+      "photo": "https://i.ibb.co/0VT7RRr/Wk-9.jpg",
+      "designation": "OPERATOR",
+      "office": "ICT",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Sayem",
+      "photo": "https://i.ibb.co/ncxqYTM/Wk-10.jpg",
+      "designation": "OPERATOR",
+      "office": "ICT",
+      "speciality": "Wicketkeeper Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Bishal",
+      "photo": "https://i.ibb.co/mFSfZN6/Wk-11.jpg",
+      "designation": "MLSS",
+      "office": "SE(EE)",
+      "speciality": "Wicketkeeper Allrounder",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Robiul Islam",
+      "photo": "https://i.ibb.co/XxRfc8c/Wk-12.jpg",
+      "designation": "UDA",
+      "office": "Rajshahi Project",
+      "speciality": "Wicketkeeper",
+      "basePrice": "500000"
+    },
+    {
+      "name": "Dipu",
+      "photo": "WK_13",
+      "designation": "MLSS",
+      "office": "RAO",
+      "speciality": "Wicketkeeper",
+      "basePrice": "500000"
+    }
+  ]
+}
