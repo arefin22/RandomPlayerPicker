@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import CardSinglePlayer from "./CardSinglePlayer";
+// import Title from "./Title";
 
 const BatsMan = () => {
   const [playersByCategory, setPlayersByCategory] = useState({});
@@ -10,7 +11,7 @@ const BatsMan = () => {
     fetch("./batsmen.json")
       .then((res) => res.json())
       .then((data) => {
-        const groupedPlayers = groupPlayersByCategory(data?.batsmen);
+        const groupedPlayers = groupPlayersByCategory(data?.batsmen_a);
         setPlayersByCategory(groupedPlayers);
         setLoading(false);
       })
@@ -22,7 +23,7 @@ const BatsMan = () => {
 
   const groupPlayersByCategory = (players) => {
     return players.reduce((grouped, player) => {
-      const category = player.category || 'default';
+      const category = player.category || "default";
       if (!grouped[category]) {
         grouped[category] = [];
       }
@@ -67,17 +68,21 @@ const BatsMan = () => {
   };
 
   return (
-    <div>
-      <div className="w-full flex justify-between items-center mx-auto text-center">
-        <div className="w-full">
+    <div className="w-full flex justify-between items-center mx-auto text-center">
+      <div className="w-full">
+        {/* <Title title="Batsmen" /> */}
+        <div className="flex justify-between items-center border-b-2 p-0 border-gray-300 w-full">
+          <h2 className="text-4xl text-center p-4 pb-0 text-white">Bats Men</h2>
           <button
             onClick={HandleRandomNumber}
             disabled={loading}
-            className="btn bg-white m-6 text-slate-900 btn-outline"
+            className="btn bg-white text-slate-900 btn-outline"
           >
             Pick Player
           </button>
+        </div>
 
+        <div className="w-4/12 mx-auto mt-4">
           {selectedPlayer && (
             <>
               <CardSinglePlayer

@@ -1,5 +1,5 @@
 {
-  "bowler": [
+  "bowler_a": [
     {
       "id": 1,
       "name": "MD. ATICK FAISAL",
@@ -59,9 +59,11 @@
       "speciality": "Bowler",
       "basePrice": "500000",
       "category": "A"
-    },
+    }
+  ],
+  "bowler_b": [
     {
-      "id": 7,
+      "id": 1,
       "name": "Ruhul Amin Rubel",
       "photo": "https://i.ibb.co/sVpy114/Bowl-BC-1.jpg",
       "designation": "Security Guard",
@@ -71,7 +73,7 @@
       "category": "B"
     },
     {
-      "id": 8,
+      "id": 2,
       "name": "Rajib Hossain",
       "photo": "https://i.ibb.co/rvxKd2s/Bowl-BC-2.jpg",
       "designation": "MLSS",
@@ -81,7 +83,7 @@
       "category": "B"
     },
     {
-      "id": 9,
+      "id": 3,
       "name": "Sanwar",
       "photo": "https://i.ibb.co/db9mdty/Bowl-BC-3.jpg",
       "designation": "Sub-Assistant Engineer",
@@ -91,7 +93,7 @@
       "category": "B"
     },
     {
-      "id": 10,
+      "id": 4,
       "name": "Nisan",
       "photo": "https://i.ibb.co/bNHPx51/Bowl-BC-4.jpg",
       "designation": "MLSS",
@@ -101,7 +103,7 @@
       "category": "B"
     },
     {
-      "id": 11,
+      "id": 5,
       "name": "Rasel",
       "photo": "https://i.ibb.co/WGNgbLg/Bowl-BC-5.jpg",
       "designation": "MLSS",
@@ -111,7 +113,7 @@
       "category": "B"
     },
     {
-      "id": 12,
+      "id": 6,
       "name": "Sazzad",
       "photo": "https://i.ibb.co/5YBLcpM/Bowl-BC-6.jpg",
       "designation": "Sub-Assistant Engineer",
@@ -121,7 +123,7 @@
       "category": "B"
     },
     {
-      "id": 13,
+      "id": 7,
       "name": "Hafizur Rahman",
       "photo": "https://i.ibb.co/XC6Nm7s/Bowl-BC-7.jpg",
       "designation": "Meter Reader",
@@ -131,7 +133,7 @@
       "category": "B"
     },
     {
-      "id": 14,
+      "id": 8,
       "name": "Mohammad Ali",
       "photo": "BOWL_BC_8",
       "designation": "Computer Operator(Outsourcing)",

@@ -1,5 +1,5 @@
 {
-  "batsmen": [
+  "batsmen_a": [
     {
       "id": 1,
       "name": "Akash",
@@ -89,7 +89,9 @@
       "speciality": "Batsman",
       "basePrice": "500000",
       "category": "A"
-    },
+    }
+  ],
+  "batsmen_b": [
     {
       "id": 10,
       "name": "Arup",
