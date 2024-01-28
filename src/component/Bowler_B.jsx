@@ -2,16 +2,16 @@ import { useEffect, useState } from "react";
 import CardSinglePlayer from "./CardSinglePlayer";
 // import Title from "./Title";
 
-const BatsMan = () => {
+const Bowler_B = () => {
   const [playersByCategory, setPlayersByCategory] = useState({});
   const [selectedPlayer, setSelectedPlayer] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("./batsmen.json")
+    fetch("./bowler.json")
       .then((res) => res.json())
       .then((data) => {
-        const groupedPlayers = groupPlayersByCategory(data?.batsmen_a);
+        const groupedPlayers = groupPlayersByCategory(data?.bowler_b);
         setPlayersByCategory(groupedPlayers);
         setLoading(false);
       })
@@ -63,7 +63,7 @@ const BatsMan = () => {
     }
 
     if (!hasRemainingPlayers) {
-      alert("There are no more Bats man.");
+      alert("There are no more Bowlers.");
     }
   };
 
@@ -72,7 +72,7 @@ const BatsMan = () => {
       <div className="w-full">
         {/* <Title title="Batsmen" /> */}
         <div className="flex justify-between items-center border-b-2 p-0 border-gray-300 w-full">
-          <h2 className="text-4xl text-center p-4 pb-0 text-white">Bats Men</h2>
+          <h2 className="text-4xl text-center p-4 pb-0 text-white">Bowlers</h2>
           <button
             onClick={HandleRandomNumber}
             disabled={loading}
@@ -82,7 +82,7 @@ const BatsMan = () => {
           </button>
         </div>
 
-        <div className="w-4/12 mx-auto mt-4">
+        <div className="w-6/12 mx-auto m-10">
           {selectedPlayer && (
             <>
               <CardSinglePlayer
@@ -101,4 +101,4 @@ const BatsMan = () => {
   );
 };
 
-export default BatsMan;
+export default Bowler_B;
