@@ -11,6 +11,7 @@ const BatsMen_C = () => {
     fetch("./batsmen.json")
       .then((res) => res.json())
       .then((data) => {
+        console.log(data?.batsmen_c)
         const groupedPlayers = groupPlayersByCategory(data?.batsmen_c);
         setPlayersByCategory(groupedPlayers);
         setLoading(false);
