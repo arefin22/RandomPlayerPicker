@@ -1,0 +1,595 @@
+
+BAT_A_1
+BOWL_A_1
+ALL_A_1
+WK_1
+
+BAT_B_1
+ALL_BC_1
+BOWL_BC_1
+BAT_C_1
+
+
+{
+  "name": "Akash",
+"photo": "BAT_A_1",
+"catagory": "BAT_A",
+  "designation": "Outsourcing",
+  "office": "Customer Care",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+
+{
+  "name": "Miner Hossain",
+"photo": "BAT_A_2",
+"catagory": "BAT_A",
+  "designation": “Meter Reader”,
+  "office": "SnD-3",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mizanur Rahman Sohel",
+"photo": "BAT_A_3",
+"catagory": "BAT_A",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "SnD-1",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+
+{
+  "name": "Foysal Sheikh",
+"photo": "BAT_A_4",
+"catagory": "BAT_A",
+  "designation": "Driver",
+  "office": "Rajshahi Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+
+{
+  "name": "Mohammad Abdur Rahim",
+"photo": "BAT_A_5",
+"catagory": "BAT_A",
+  "designation": "Deputy Manager",
+  "office": "HR & Admin",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mursalin",
+"photo": "BAT_A_6",
+"catagory": "BAT_A",
+  "designation": "Executive Engineer",
+  "office": "Smart Meter Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Foysal",
+"photo": "BAT_A_7",
+"catagory": "BAT_A",
+  "designation": "Assistant Engineer",
+  "office": "SnD-4",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Kafu",
+"photo": "BAT_A_8",
+"catagory": "BAT_A",
+  "designation": “Meter Reader”,
+  "office": "Bimanbandar",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mesbah",
+"photo": "BAT_A_9",
+"catagory": "BAT_A",
+  "designation": “Assistant Manager”,
+  "office": "RAO",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+
+
+
+{
+  "name": "Arup",
+"photo": "BAT_B_1",
+"catagory": "BAT_B",
+  "designation": "Driver",
+  "office": "CE (Engineering)",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+
+{
+  "name": "Jadab",
+"photo": "BAT_B_2",
+"catagory": "BAT_B",
+  "designation": "Driver",
+  "office": "CE (P&D)",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Sajib Khan",
+"photo": "BAT_B_3",
+"catagory": "BAT_B",
+  "designation": "MLSS",
+  "office": "Customer Care",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Nur Mohammad",
+"photo": "BAT_B_4",
+"catagory": "BAT_B",
+  "designation": "Sub-Divisional Engineer",
+  "office": "SnD-2",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Raihanul Kabir",
+"photo": "BAT_B_5",
+"catagory": "BAT_B",
+  "designation": "SSA",
+  "office": "SnD-1",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Md. Mehdi Hasan",
+"photo": "BAT_B_6",
+"catagory": "BAT_B",
+  "designation": "Deputy Manager",
+  "office": "HR & Admin",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Yakub",
+"photo": "BAT_B_7",
+"catagory": "BAT_B",
+  "designation": "Sub-Divisional Engineer",
+  "office": "Smart Meter Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mustafiz",
+"photo": "BAT_B_8",
+"catagory": "BAT_B",
+  "designation": "Sub-Divisional Engineer",
+  "office": "Smart Meter Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Rahi",
+"photo": "BAT_B_9",
+"catagory": "BAT_B",
+  "designation": "Driver",
+  "office": "Procurement",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Dipu",
+"photo": "BAT_C_1",
+"catagory": "BAT_C",
+  "designation": "MLSS",
+  "office": "Civil",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Rasel AL Nahid",
+"photo": "BAT_C_2",
+"catagory": "BAT_C",
+  "designation": “Meter Reader”,
+  "office": "SnD-5",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Hasanuzzaman",
+"photo": "BAT_C_3",
+"catagory": "BAT_C",
+  "designation": “Meter Reader”,
+  "office": "Kashiadanga",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mojammel",
+"photo": "BAT_C_4",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "Kashiadanga",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Walid",
+"photo": "BAT_C_5",
+"catagory": "BAT_C",
+  "designation": "Sub-Divisional Engineer",
+  "office": "Kashiadanga",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "MD. SHOFIQUR RAHMAN NOBEL",
+"photo": "BAT_C_6",
+"catagory": "BAT_C",
+  "designation": "Helper",
+  "office": "SnD-2",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "POTU CHONDRO SARKAR",
+"photo": "BAT_C_7",
+"catagory": "BAT_C",
+  "designation": "Lineman",
+  "office": "SnD-2",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "MD. ALOMGIR HOSSAIN",
+"photo": "BAT_C_8",
+"catagory": "BAT_C",
+  "designation": "Imam",
+  "office": "SnD-2",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Shafiq",
+"photo": "BAT_C_9",
+"catagory": "BAT_C",
+  "designation": "Helper",
+  "office": "SnD-2",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Ashiq al Mumin",
+"photo": "BAT_C_10",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "SnD-1",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Sajib Islam",
+"photo": "BAT_C_11",
+"catagory": "BAT_C",
+  "designation": "Outsourcing",
+  "office": "SnD-1",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Sabbir Hossain",
+"photo": "BAT_C_12",
+"catagory": "BAT_C",
+  "designation": "Outsourcing",
+  "office": "SnD-1",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Saunur Rahman",
+"photo": "BAT_C_13",
+"catagory": "BAT_C",
+  "designation": “Meter Reader”,
+  "office": "SnD-1",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Nirob",
+"photo": "BAT_C_14",
+"catagory": "BAT_C",
+  "designation": "Driver",
+  "office": "Rajshahi Pro",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Ruhul Amin",
+"photo": "BAT_C_15",
+"catagory": "BAT_C",
+  "designation": "UDA",
+  "office": "Rajshahi Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mizanur Rahman",
+"photo": "BAT_C_16",
+"catagory": "BAT_C",
+  "designation": "Accountant",
+  "office": "Rajshahi Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Md. Shariful Islam",
+"photo": "BAT_C_17",
+"catagory": "BAT_C",
+  "designation": "Deputy Manager",
+  "office": "Legal",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Md. Emdadul Haque Miah",
+"photo": "BAT_C_18",
+"catagory": "BAT_C",
+  "designation": "Deputy Manager",
+  "office": "HR & Admin",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "A.K.M.R. Mobarak",
+"photo": "BAT_C_19",
+"catagory": "BAT_C",
+  "designation": "Deputy Manager",
+  "office": "HR & Admin",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Mehedi Hasan",
+"photo": "BAT_C_20",
+"catagory": "BAT_C",
+  "designation": "Assistant Manager",
+  "office": "HR & Admin",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Arif",
+"photo": "BAT_C_21",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "Smart Meter Project",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Tapash Kumar Das",
+"photo": "BAT_C_22",
+"catagory": "BAT_C",
+  "designation": "Cleaner",
+  "office": "SnD-4",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Masud Rana",
+"photo": "BAT_C_23",
+"catagory": "BAT_C",
+  "designation": "Helper",
+  "office": "SnD-4",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Zubayer",
+"photo": "BAT_C_24",
+"catagory": "BAT_C",
+  "designation": "Assistant Engineer",
+  "office": "Design & Inspection",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Shahidul",
+"photo": "BAT_C_25",
+"catagory": "BAT_C",
+  "designation": "Assistant Engineer",
+  "office": "Design & Inspection",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Fattah Uz Zaman",
+"photo": "BAT_C_26",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "Procurement",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Shamsuzzaman Jewel",
+"photo": "BAT_C_27",
+"catagory": "BAT_C",
+  "designation": "Assistant Manager",
+  "office": "Procurement",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Abir",
+"photo": "BAT_C_28",
+"catagory": "BAT_C",
+  "designation": "MLSS",
+  "office": "Procurement",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Yamin",
+"photo": "BAT_C_29",
+"catagory": "BAT_C",
+  "designation": "Assistant Manager",
+  "office": "ICT",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Sagar Robi",
+"photo": "BAT_C_30",
+"catagory": "BAT_C",
+  "designation": "Operator",
+  "office": "ICT",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Bipul",
+"photo": "BAT_C_31",
+"catagory": "BAT_C",
+  "designation": "OPERATOR",
+  "office": "ICT",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Imran",
+"photo": "BAT_C_32",
+"catagory": "BAT_C",
+  "designation": "Deputy Manager",
+  "office": "RAO",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Awal",
+"photo": "BAT_C_33",
+"catagory": "BAT_C",
+  "designation": " ",
+  "office": "Finance",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Alamgir",
+"photo": "BAT_C_34",
+"catagory": "BAT_C",
+  "designation": "MLSS",
+  "office": "RAO",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Azam",
+"photo": "BAT_C_35",
+"catagory": "BAT_C",
+  "designation": "MLSS",
+  "office": "Audit",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Tanvir Alam",
+"photo": "BAT_C_36",
+"catagory": "BAT_C",
+  "designation": "Assistant Engineer",
+  "office": "Renewable",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Abdullah",
+"photo": "BAT_C_37",
+"catagory": "BAT_C",
+  "designation": "Operator",
+  "office": "ICT",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Monowar",
+"photo": "BAT_C_38",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": " SnD Bimanbandor",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Torikul Islam",
+"photo": "BAT_C_39",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": " SnD Bimanbandor",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Chandon",
+"photo": "BAT_C_40",
+"catagory": "BAT_C",
+  "designation": “Sub-Assistant Engineer”,
+  "office": " SnD Bimanbandor",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Yousuf Ali",
+"photo": "BAT_C_41",
+"catagory": "BAT_C",
+  "designation": "Junior Assistant Manager",
+  "office": " SnD Bimanbandor",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Sabbir",
+"photo": "BAT_C_42",
+"catagory": "BAT_C",
+  "designation": "Assistant Manager",
+  "office": " ICT",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Tutul",
+"photo": "BAT_C_43",
+"catagory": "BAT_C",
+  "designation": "Junior Assistant Manager",
+  "office": "RAO",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Monayem Hossain",
+"photo": "BAT_C_44",
+"catagory": "BAT_C",
+  "designation": "Computer Operator (Outsourcing)",
+  "office": "MD Office",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Abdul Mannan",
+"photo": "BAT_C_45",
+"catagory": "BAT_C",
+  "designation": "Helper",
+  "office": "SnD-3",
+"speciality": "Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Alamgir",
+"photo": "BAT_C_46",
+"catagory": "BAT_C",
+  "designation": "MLSS",
+  "office": "Design & Inspection",
+"speciality": "Batsman",
+"basePrice": "500000",
+}

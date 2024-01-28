@@ -1,0 +1,434 @@
+
+BAT_A
+BOWL_A
+ALL_A
+WK
+
+BAT_B
+ALL_BC
+BOWL_BC
+BAT_C
+
+
+{
+  "name": "Rajib",
+"photo": "ALL_A_1",
+"catagory": "ALL_A",
+  "designation": “Assistant Engineer”,
+  "office": "Smart Meter Project",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+
+{
+  "name": "Ratan",
+"photo": "ALL_A_2",
+"catagory": "ALL_A",
+  "designation": “Assistant Manager”,
+  "office": "ICT",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+
+{
+  "name": "Prince",
+"photo": "ALL_A_3",
+"catagory": "ALL_A",
+  "designation": "Doctor",
+  "office": "SE-1",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+
+{
+  "name": "Mohin",
+"photo": "ALL_A_4",
+"catagory": "ALL_A",
+  "designation": "Security Guard",
+  "office": "SnD-4",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Siraj",
+"photo": "ALL_A_5",
+"catagory": "ALL_A",
+  "designation": “Deputy Manager”,
+  "office": "ICT",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Sajal",
+"photo": "ALL_A_6",
+"catagory": "ALL_A",
+  "designation": "MLSS",
+  "office": “Rajshahi Project”,
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Anwar",
+"photo": "ALL_A_7",
+"catagory": "ALL_A",
+  "designation": “Sub-Divisional Engineer”,
+  "office": "Procurement",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Gulzar",
+"photo": "ALL_A_8",
+"catagory": "ALL_A",
+  "designation": "OPERATOR",
+  "office": "ICT",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Fahim",
+"photo": "ALL_A_9",
+"catagory": "ALL_A",
+  "designation": "MLSS",
+  "office": "RAO",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+
+
+
+
+
+{
+  "name": "Pappu Mia",
+"photo": "ALL_BC_1",
+"catagory": "ALL_BC",
+  "designation": “Junior Assistant Manager”,
+  "office": “Rajshahi Project”,
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Alamin",
+"photo": "ALL_BC_2",
+"catagory": "ALL_BC",
+  "designation": “Deputy Manager”,
+  "office": "ICT",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Robiul",
+"photo": "ALL_BC_3",
+"catagory": "ALL_BC",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "SE(EE)",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Gazi",
+"photo": "ALL_BC_4",
+"catagory": "ALL_BC",
+  "designation": "OPERATOR",
+  "office": "ICT",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Ashiq Iqbal",
+"photo": "ALL_BC_5",
+"catagory": "ALL_BC",
+  "designation": “Deputy Manager”,
+  "office": "DGM (Accounts)",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Al Masud",
+"photo": "ALL_BC_6",
+"catagory": "ALL_BC",
+  "designation": “Meter Reader”,
+  "office": "Kashiadanga",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Sumon",
+"photo": "ALL_BC_7",
+"catagory": "ALL_BC",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "Protection",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "MAHABUB SHEIKH",
+"photo": "ALL_BC_8",
+"catagory": "ALL_BC",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "SnD-2",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Sabbir",
+"photo": "ALL_BC_9",
+"catagory": "ALL_BC",
+  "designation": "MLSS",
+  "office": "RAO",
+"speciality": “Allrounder”,
+"basePrice": "500000",
+}
+
+
+
+{
+  "name": "Harun",
+"photo": "WK_1",
+"catagory": "WK",
+  "designation": “Meter Reader”,
+  "office": "SnD-3",
+"speciality": "Wicketkeeper Batsman",
+"basePrice": "500000",
+}
+{
+  "name": "Rony Alam",
+"photo": "WK_2",
+"catagory": "WK",
+  "designation": "Manager",
+  "office": "DGM (Accounts)",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+
+{
+  "name": "Mahbub Alam",
+"photo": "WK_3",
+"catagory": "WK",
+  "designation": “Meter Reader”,
+  "office": "Kashiadanga",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Hasan Ali",
+"photo": "WK_4",.
+"catagory": "WK",
+  "designation": “Deputy Manager”,
+  "office": “Rajshahi Project”,
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Md. Jamiul Islam",
+"photo": "WK_5",
+"catagory": "WK",
+  "designation": “Junior Assistant Manager”,
+  "office": "HR & Admin",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Dipok",
+"photo": "WK_6",
+"catagory": "WK",
+  "designation": "Driver",
+  "office": "SDSI Project",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Minhaz",
+"photo": "WK_7",
+"catagory": "WK",
+  "designation": “Junior Assistant Manager”,
+  "office": "ICT",
+"speciality": “Wicketkeeper Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Bashar",
+"photo": "WK_8",
+"catagory": "WK",
+  "designation": “Deputy Manager”,
+  "office": "DGM (Accounts)",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Sayed",
+"photo": "WK_9",
+"catagory": "WK",
+  "designation": "OPERATOR",
+  "office": "ICT",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Sayem",
+"photo": "WK_10",
+"catagory": "WK",
+  "designation": "OPERATOR",
+  "office": "ICT",
+"speciality": “Wicketkeeper Batsman”,
+"basePrice": "500000",
+}
+{
+  "name": "Bishal",
+"photo": "WK_11",
+"catagory": "WK",
+  "designation": "MLSS",
+  "office": "SE(EE)",
+"speciality": “Wicketkeeper Allrounder”,
+"basePrice": "500000",
+}
+{
+  "name": "Robiul Islam",
+"photo": "WK_12",
+"catagory": "WK",
+  "designation": "UDA",
+  "office": “Rajshahi Project”,
+"speciality": “Wicketkeeper”,
+"basePrice": "500000",
+}
+{
+  "name": "Dipu",
+"photo": "WK_13",
+"catagory": "WK",
+  "designation": "MLSS",
+  "office": "RAO",
+"speciality": “Wicketkeeper”,
+"basePrice": "500000",
+}
+
+
+
+
+
+{
+  "name": "MD. ATICK FAISAL",
+"photo": "BOWL_A_1",
+"catagory": "BOWL_A",
+  "designation": "LEM (Outsourcing)",
+  "office": "SnD-2",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Md. Imrul Kayes",
+"photo": "BOWL_A_2",
+"catagory": "BOWL_A",
+  "designation": “Assistant Manager”,
+  "office": "HR & Admin",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Mohiuddin Babu",
+"photo": "BOWL_A_3",
+"catagory": "BOWL_A",
+  "designation": “Meter Reader”,
+  "office": "SnD-4",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Rakibul Islam",
+"photo": "BOWL_A_4",
+"catagory": "BOWL_A",
+  "designation": "Helper",
+  "office": "SnD-5",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Toufiq",
+"photo": "BOWL_A_5",
+"catagory": "BOWL_A",
+  "designation": "Assistant Manager",
+  "office": "RAO",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Shakir",
+"photo": "BOWL_A_6",
+"catagory": "BOWL_A",
+  "designation": "Outsourcing",
+  "office": "GIS",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Ruhul Amin Rubel",
+"photo": "BOWL_BC_1",
+"catagory": "BOWL_BC",
+  "designation": "Security Guard",
+  "office": "SnD-2",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Rajib Hossain",
+"photo": "BOWL_BC_2",z
+"catagory": "BOWL_BC",
+  "designation": "MLSS",
+  "office": "Rangpur Project",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Sanwar",
+"photo": "BOWL_BC_3",
+"catagory": "BOWL_BC",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "Protection",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Nisan",
+"photo": "BOWL_BC_4",
+"catagory": "BOWL_BC",
+  "designation": "MLSS",
+  "office": "CIVIL",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Rasel",
+"photo": "BOWL_BC_5",
+"catagory": "BOWL_BC",
+  "designation": "MLSS",
+  "office": "CE(Engineering)",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Sazzad",
+"photo": "BOWL_BC_6",
+"catagory": "BOWL_BC",
+  "designation": “Sub-Assistant Engineer”,
+  "office": "SE(EE)",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Hafizur Rahman",
+"photo": "BOWL_BC_7",
+"catagory": "BOWL_BC",
+  "designation": “Meter Reader”,
+  "office": "Kashiadanga",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}
+{
+  "name": "Mohammad Ali",
+"photo": "BOWL_BC_8",
+"catagory": "BOWL_BC",
+  "designation": "Computer Operator(Outsourcing)",
+  "office": "HR & Admin",
+"speciality": “Bowler”,
+"basePrice": "500000",
+}

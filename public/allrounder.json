@@ -1,5 +1,5 @@
 {
-  "allrounder": [
+  "allrounder_a": [
     {
       "id": 1,
       "name": "Rajib",
@@ -89,9 +89,11 @@
       "speciality": "Allrounder",
       "basePrice": "500000",
       "category": "A"
-    },
+    }
+  ],
+  "allrounder_b": [
     {
-      "id": 10,
+      "id": 1,
       "name": "Pappu Mia",
       "photo": "https://i.ibb.co/Sn05j5H/All-BC-1.jpg",
       "designation": "Junior Assistant Manager",
@@ -101,7 +103,7 @@
       "category": "B"
     },
     {
-      "id": 11,
+      "id": 2,
       "name": "Alamin",
       "photo": "https://i.ibb.co/jM20mVz/All-BC-2.jpg",
       "designation": "Deputy Manager",
@@ -111,7 +113,7 @@
       "category": "B"
     },
     {
-      "id": 12,
+      "id": 3,
       "name": "Robiul",
       "photo": "https://i.ibb.co/fFnzpMB/ALl-BC-3.jpg",
       "designation": "Sub-Assistant Engineer",
@@ -121,7 +123,7 @@
       "category": "B"
     },
     {
-      "id": 13,
+      "id": 4,
       "name": "Gazi",
       "photo": "https://i.ibb.co/PD8qZ4K/All-BC-4.jpg",
       "designation": "OPERATOR",
@@ -131,7 +133,7 @@
       "category": "B"
     },
     {
-      "id": 14,
+      "id": 5,
       "name": "Ashiq Iqbal",
       "photo": "https://i.ibb.co/7QWKbch/All-BC-5.jpg",
       "designation": "Deputy Manager",
@@ -141,7 +143,7 @@
       "category": "B"
     },
     {
-      "id": 15,
+      "id": 6,
       "name": "Al Masud",
       "photo": "https://i.ibb.co/gDm75SM/All-BC-6.jpg",
       "designation": "Meter Reader",
@@ -151,7 +153,7 @@
       "category": "B"
     },
     {
-      "id": 16,
+      "id": 7,
       "name": "Sumon",
       "photo": "https://i.ibb.co/VY7CfVy/All-BC-7.jpg",
       "designation": "Sub-Assistant Engineer",
@@ -161,7 +163,7 @@
       "category": "B"
     },
     {
-      "id": 17,
+      "id": 8,
       "name": "MAHABUB SHEIKH",
       "photo": "https://i.ibb.co/6WpPhM6/All-BC-8.jpg",
       "designation": "Sub-Assistant Engineer",
@@ -171,7 +173,7 @@
       "category": "B"
     },
     {
-      "id": 18,
+      "id": 9,
       "name": "Sabbir",
       "photo": "ALL_BC_9",
       "designation": "MLSS",

@@ -1,18 +1,32 @@
 /* eslint-disable react/prop-types */
 const CardSinglePlayer = (props) => {
   return (
-    <div>
-      <div className="card w-96 bg-white mx-auto text-slate-900 shadow-xl">
-        <figure>
-          <img className="h-96 w-96" src={props.image} alt={props.name} />
-        </figure>
-        {/* name={selectedPlayer.name} image={selectedPlayer.image} designation={selectedPlayer.designation} office={selectedPlayer.office} specialty={selectedPlayer.speciality} basePrice={selectedPlayer.basePrice}  */}
-        <div className="card-body">
-          <h2 className="text-2xl font-bold">{props.name}</h2>
-          <p>Designation: {props.designation}</p>
-          <p>Office: {props.office}</p>
-          <p>Specialty: {props.specialty}</p>
-          <p>Base Price: {props.basePrice}</p>
+    <div className="card flex-row-reverse text-slate-900 text-xl bg-white shadow-xl">
+      <figure>
+        <img
+          className="h-[420px] w-[420px] object-cover"
+          src={props.image}
+          alt={props.name}
+        />
+      </figure>
+      <div className="p-4 text-left w-[500px]">
+        <div className="flex flex-col gap-[108px]">
+          <div>
+            <h2 className="text-4xl font-bold underline">{props.name}</h2>
+          </div>
+          <div className="font-medium">
+            <p className="italic">Designation: {props.designation}</p>
+            <p>Office: {props.office}</p>
+            <p>Specialty: {props.specialty}</p>
+          </div>
+          <div className="rounded-xl bg-yellow-400 p-2 w-full">
+            <p>
+              Base Price:{" "}
+              <span className="font-bold text-2xl text-black">
+                {props.basePrice}
+              </span>
+            </p>
+          </div>
         </div>
       </div>
     </div>
