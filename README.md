@@ -11,5 +11,6 @@ Who's demand was an auction site :
 * Once a player picked then will be removed from the JSON file que.
 * And if there are no more player in any section then it will show a prompt saying "No more player in this section"
 
-- [Live Website Link](https://random-player-picker.web.app/)
+
+[Live Website Link](https://random-player-picker.web.app/)
 
