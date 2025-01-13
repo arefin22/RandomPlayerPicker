@@ -2,21 +2,21 @@
 const CardSinglePlayer = (props) => {
   return (
     <div className="card flex-row-reverse text-slate-900 text-xl bg-white shadow-xl">
-      <figure>
+      {/* <figure>
         <img
           className="h-[420px] w-[420px] object-cover"
           src={props.image}
           alt={props.name}
         />
-      </figure>
+      </figure> */}
       <div className="p-4 text-left w-[500px]">
         <div className="flex flex-col gap-[108px]">
           <div>
             <h2 className="text-4xl font-bold underline">{props.name}</h2>
           </div>
           <div className="font-medium">
-            <p className="italic">Designation: {props.designation}</p>
-            <p>Office: {props.office}</p>
+            {/* <p className="italic">Designation: {props.designation}</p>
+            <p>Office: {props.office}</p> */}
             <p>Specialty: {props.specialty}</p>
           </div>
           <div className="rounded-xl bg-yellow-400 p-2 w-full">

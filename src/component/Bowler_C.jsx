@@ -7,10 +7,10 @@ const BatsMen_A = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("./allrounder.json")
+    fetch("./bowler.json")
       .then((res) => res.json())
       .then((data) => {
-        setPlayers(data?.allrounder_b || []);
+        setPlayers(data?.bowler_c || []);
         setLoading(false);
       })
       .catch((error) => {
@@ -45,7 +45,7 @@ const BatsMen_A = () => {
     <div className="w-full flex justify-between items-center mx-auto text-center">
       <div className="w-full">
         <div className="flex justify-between items-center border-b-2 p-0 border-gray-300 w-full">
-          <h2 className="text-4xl text-center p-4 pb-0 text-white">All Rounder (Segment 2)</h2>
+          <h2 className="text-4xl text-center p-4 pb-0 text-white">Bowler (Segment 3)</h2>
           <button
             onClick={getRandomPlayer}
             disabled={loading}

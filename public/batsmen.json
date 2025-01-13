@@ -2,647 +2,607 @@
   "batsmen_a": [
     {
       "id": 1,
-      "name": "Akash",
-      "photo": "https://i.ibb.co/QpVDbjN/Bat-A-1.jpg",
-      "designation": "Outsourcing",
-      "office": "Customer Care",
+      "name": "Prakash",
+      "photo": "BAT_A_1",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 2,
-      "name": "Miner Hossain",
-      "photo": "https://i.ibb.co/PCWSxhH/Bat-A-2.jpg",
-      "designation": "Meter Reader",
-      "office": "SnD-3",
+      "name": "Nahin",
+      "photo": "BAT_A_2",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 3,
-      "name": "Mizanur Rahman Sohel",
-      "photo": "https://i.ibb.co/Kz8NJjs/Bat-A-3.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "SnD-1",
+      "name": "Rahim",
+      "photo": "BAT_A_3",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 4,
-      "name": "Foysal Sheikh",
-      "photo": "https://i.ibb.co/Qcbgjcj/Bat-A-4.jpg",
-      "designation": "Driver",
-      "office": "Rajshahi Project",
+      "name": "Tareque",
+      "photo": "BAT_A_4",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 5,
-      "name": "Mohammad Abdur Rahim",
-      "photo": "https://i.ibb.co/5hPRfsq/Bat-A-5.jpg",
-      "designation": "Deputy Manager",
-      "office": "HR & Admin",
+      "name": "Bishal",
+      "photo": "BAT_A_5",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 6,
-      "name": "Mursalin",
-      "photo": "https://i.ibb.co/CVzncDJ/Bat-A-6.jpg",
-      "designation": "Executive Engineer",
-      "office": "Smart Meter Project",
+      "name": "Sazzad",
+      "photo": "BAT_A_6",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 7,
-      "name": "Foysal",
-      "photo": "https://i.ibb.co/MRypJXj/Bat-A-7.jpg",
-      "designation": "Assistant Engineer",
-      "office": "SnD-4",
+      "name": "Belal",
+      "photo": "BAT_A_7",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 8,
-      "name": "Kafu",
-      "photo": "https://i.ibb.co/NyRZGgd/Bat-A-8.jpg",
-      "designation": "Meter Reader",
-      "office": "Bimanbandar",
+      "name": "Mahbub",
+      "photo": "BAT_A_8",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
+      "basePrice": "500000"
     },
     {
       "id": 9,
-      "name": "Mesbah",
-      "photo": "https://i.ibb.co/g4RHmVj/Bat-A-9.jpg",
-      "designation": "Assistant Manager",
-      "office": "RAO",
+      "name": "Harun",
+      "photo": "BAT_A_9",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "A"
-    }
-  ],
-  "batsmen_b": [
-    {
-      "id": 1,
-      "name": "Arup",
-      "photo": "https://i.ibb.co/48syBvs/Bat-B-1.jpg",
-      "designation": "Driver",
-      "office": "CE (Engineering)",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 2,
-      "name": "Jadab",
-      "photo": "https://i.ibb.co/gvGw0Xb/Bat-B-2.jpg",
-      "designation": "Driver",
-      "office": "CE (P&D)",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 3,
-      "name": "Sajib Khan",
-      "photo": "https://i.ibb.co/sm7tPG2/Bat-B-3.jpg",
-      "designation": "MLSS",
-      "office": "Customer Care",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 4,
-      "name": "Nur Mohammad",
-      "photo": "https://i.ibb.co/yQwQsx7/Bat-B-4.jpg",
-      "designation": "Sub-Divisional Engineer",
-      "office": "SnD-2",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 5,
-      "name": "Raihanul Kabir",
-      "photo": "https://i.ibb.co/25kmmXc/Bat-B-5.jpg",
-      "designation": "SSA",
-      "office": "SnD-1",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 6,
-      "name": "Md. Mehdi Hasan",
-      "photo": "https://i.ibb.co/yFN4mZP/Bat-B-6.jpg",
-      "designation": "Deputy Manager",
-      "office": "HR & Admin",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 7,
-      "name": "Yakub",
-      "photo": "https://i.ibb.co/42KY0Fm/Bat-B-7.jpg",
-      "designation": "Sub-Divisional Engineer",
-      "office": "Smart Meter Project",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 8,
-      "name": "Mustafiz",
-      "photo": "https://i.ibb.co/4gjV4Xc/Bat-B-8.jpg",
-      "designation": "Sub-Divisional Engineer",
-      "office": "Smart Meter Project",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 9,
-      "name": "Rahi",
-      "photo": "BAT_B_9",
-      "designation": "Driver",
-      "office": "Procurement",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "B"
-    }
-  ],
-  "batsmen_c": [
-    {
-      "id": 1,
-      "name": "Dipu",
-      "photo": "https://i.ibb.co/2h1b6M0/Bat-C-1.jpg",
-      "designation": "MLSS",
-      "office": "Civil",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 2,
-      "name": "Rasel AL Nahid",
-      "photo": "https://i.ibb.co/0hCc6sy/Bat-C-2.jpg",
-      "designation": "Meter Reader",
-      "office": "SnD-5",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 3,
-      "name": "Hasanuzzaman",
-      "photo": "https://i.ibb.co/ZM25kcZ/Bat-C-3.jpg",
-      "designation": "Meter Reader",
-      "office": "Kashiadanga",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 4,
-      "name": "Mojammel",
-      "photo": "https://i.ibb.co/9vKH5NS/Bat-C-4.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "Kashiadanga",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 5,
-      "name": "Walid",
-      "photo": "https://i.ibb.co/J2ZFHkb/Bat-C-5.jpg",
-      "designation": "Sub-Divisional Engineer",
-      "office": "Kashiadanga",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 6,
-      "name": "MD. SHOFIQUR RAHMAN NOBEL",
-      "photo": "https://i.ibb.co/ctRr2jy/Bat-C-6.jpg",
-      "designation": "Helper",
-      "office": "SnD-2",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 7,
-      "name": "POTU CHONDRO SARKAR",
-      "photo": "https://i.ibb.co/D7wydCJ/Bat-C-7.jpg",
-      "designation": "Lineman",
-      "office": "SnD-2",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 8,
-      "name": "MD. ALOMGIR HOSSAIN",
-      "photo": "https://i.ibb.co/znP82YB/Bat-C-8.jpg",
-      "designation": "Imam",
-      "office": "SnD-2",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 9,
-      "name": "Shafiq",
-      "photo": "https://i.ibb.co/5R73MTm/Bat-C-9.jpg",
-      "designation": "Helper",
-      "office": "SnD-2",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 10,
-      "name": "Ashiq al Mumin",
-      "photo": "https://i.ibb.co/qpWHpDz/Bat-C-10.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "SnD-1",
+      "name": "Shakir",
+      "photo": "BAT_A_10",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 11,
-      "name": "Sajib Islam",
-      "photo": "https://i.ibb.co/tZTQbKn/Bat-C-11.jpg",
-      "designation": "Outsourcing",
-      "office": "SnD-1",
+      "name": "Monir",
+      "photo": "BAT_A_11",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 12,
-      "name": "Sabbir Hossain",
-      "photo": "https://i.ibb.co/HxhpVDm/Bat-C-12.jpg",
-      "designation": "Outsourcing",
-      "office": "SnD-1",
+      "name": "Hasibul",
+      "photo": "BAT_A_12",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 13,
-      "name": "Saunur Rahman",
-      "photo": "https://i.ibb.co/ggpZSWM/Bat-C-13.jpg",
-      "designation": "Meter Reader",
-      "office": "SnD-1",
+      "name": "Faisal Sheikh",
+      "photo": "BAT_A_13",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 14,
-      "name": "Nirob",
-      "photo": "BAT_C_14",
-      "designation": "Driver",
-      "office": "Rajshahi Pro",
+      "name": "Mizan Sohel",
+      "photo": "BAT_A_14",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 15,
-      "name": "Ruhul Amin",
-      "photo": "https://i.ibb.co/P5MsHP1/Bat-C-15.png",
-      "designation": "UDA",
-      "office": "Rajshahi Project",
+      "name": "Prosenjit",
+      "photo": "BAT_A_15",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
+    }
+  ],
+
+  "batsmen_b": [
+    {
+      "id": 1,
+      "name": "Rajib Hasan",
+      "photo": "BAT_B_1",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Mehedi Hasan",
+      "photo": "BAT_B_2",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Kiron",
+      "photo": "BAT_B_3",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Mursalin",
+      "photo": "BAT_B_4",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Mostafizur",
+      "photo": "BAT_B_5",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Fattahuzzaman",
+      "photo": "BAT_B_6",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Mostafizur Rahman",
+      "photo": "BAT_B_7",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Anisur Rahman",
+      "photo": "BAT_B_8",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Masum Sikder",
+      "photo": "BAT_B_9",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Rocky Das",
+      "photo": "BAT_B_10",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Yeakub",
+      "photo": "BAT_B_11",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Rajib MLSS",
+      "photo": "BAT_B_12",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Aurangajeb",
+      "photo": "BAT_B_13",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Rony Alam",
+      "photo": "BAT_B_14",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Rakibul Islam",
+      "photo": "BAT_B_15",
+      "speciality": "Batsman",
+      "basePrice": "500000"
     },
     {
       "id": 16,
-      "name": "Mizanur Rahman",
-      "photo": "https://i.ibb.co/rkCmPb1/Bat-C-16.jpg",
-      "designation": "Accountant",
-      "office": "Rajshahi Project",
+      "name": "Sagor Robi Das",
+      "photo": "BAT_B_16",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 17,
-      "name": "Md. Shariful Islam",
-      "photo": "https://i.ibb.co/n3G8nDq/Bat-C-17.jpg",
-      "designation": "Deputy Manager",
-      "office": "Legal",
+      "name": "Mobarak",
+      "photo": "BAT_B_17",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 18,
-      "name": "Md. Emdadul Haque Miah",
-      "photo": "https://i.ibb.co/LZcR5xs/Bat-C-18.jpg",
-      "designation": "Deputy Manager",
-      "office": "HR & Admin",
+      "name": "Shariful Islam",
+      "photo": "BAT_B_18",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 19,
-      "name": "A.K.M.R. Mobarak",
-      "photo": "https://i.ibb.co/3CqqjSQ/Bat-C-19.jpg",
-      "designation": "Deputy Manager",
-      "office": "HR & Admin",
+      "name": "Sazzad Hossain",
+      "photo": "BAT_B_19",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 20,
-      "name": "Mehedi Hasan",
-      "photo": "https://i.ibb.co/4jKN2CL/Bat-C-20.jpg",
-      "designation": "Assistant Manager",
-      "office": "HR & Admin",
+      "name": "Jashim Uddin",
+      "photo": "BAT_B_20",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 21,
-      "name": "Arif",
-      "photo": "https://i.ibb.co/fFrM63N/Bat-C-21.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "Smart Meter Project",
+      "name": "Jadab",
+      "photo": "BAT_B_21",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 22,
-      "name": "Tapash Kumar Das",
-      "photo": "https://i.ibb.co/2Y1FvMg/Bat-C-22.jpg",
-      "designation": "Cleaner",
-      "office": "SnD-4",
+      "name": "Tapas",
+      "photo": "BAT_B_22",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 23,
-      "name": "Masud Rana",
-      "photo": "https://i.ibb.co/g3LSPvx/Bat-C-23.jpg",
-      "designation": "Helper",
-      "office": "SnD-4",
+      "name": "Monirul Islam Laltu",
+      "photo": "BAT_B_23",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 24,
-      "name": "Zubayer",
-      "photo": "https://i.ibb.co/3dRgpqS/Bat-C-24.jpg",
-      "designation": "Assistant Engineer",
-      "office": "Design & Inspection",
+      "name": "Ahsan Habib",
+      "photo": "BAT_B_24",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 25,
-      "name": "Shahidul",
-      "photo": "https://i.ibb.co/sCtkXv1/Bat-C-25.jpg",
-      "designation": "Assistant Engineer",
-      "office": "Design & Inspection",
+      "name": "Ferdous Zaman",
+      "photo": "BAT_B_25",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 26,
-      "name": "Fattah Uz Zaman",
-      "photo": "https://i.ibb.co/F7wVkJn/Bat-C-26.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "Procurement",
+      "name": "Ratul",
+      "photo": "BAT_B_26",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 27,
-      "name": "Shamsuzzaman Jewel",
-      "photo": "https://i.ibb.co/RQq0Dqc/Bat-C-27.jpg",
-      "designation": "Assistant Manager",
-      "office": "Procurement",
+      "name": "Mahbub Sheikh",
+      "photo": "BAT_B_27",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 28,
-      "name": "Abir",
-      "photo": "https://i.ibb.co/xSPxqc0/Bat-C-28.jpg",
-      "designation": "MLSS",
-      "office": "Procurement",
+      "name": "Saddam",
+      "photo": "BAT_B_28",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
+    }
+  ],
+
+  "batsmen_c": [
+    {
+      "id": 1,
+      "name": "Fazlur Rahman",
+      "photo": "BAT_C_1",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Abdul Momin",
+      "photo": "BAT_C_2",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Masudur",
+      "photo": "BAT_C_3",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Sajib Kumar Ghosh",
+      "photo": "BAT_C_4",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Mehedi Hasan Sajib",
+      "photo": "BAT_C_5",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Enamul Haque",
+      "photo": "BAT_C_6",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Imran",
+      "photo": "BAT_C_7",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Jahid Sheikh",
+      "photo": "BAT_C_8",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Mainul Islam",
+      "photo": "BAT_C_9",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Nayan Islam",
+      "photo": "BAT_C_10",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Shee Suvash",
+      "photo": "BAT_C_11",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Imtiaz",
+      "photo": "BAT_C_12",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Ripon",
+      "photo": "BAT_C_13",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Faruque",
+      "photo": "BAT_C_14",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Abdullah Al Mamun",
+      "photo": "BAT_C_15",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 16,
+      "name": "Imran Khan",
+      "photo": "BAT_C_16",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 17,
+      "name": "Md Ali Hasan Nayan",
+      "photo": "BAT_C_17",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 18,
+      "name": "Mozammel",
+      "photo": "BAT_C_18",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 19,
+      "name": "Zobayer",
+      "photo": "BAT_C_19",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 20,
+      "name": "Bappa Kumar",
+      "photo": "BAT_C_20",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 21,
+      "name": "Bipul",
+      "photo": "BAT_C_21",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 22,
+      "name": "Alamgir",
+      "photo": "BAT_C_22",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 23,
+      "name": "Dipu",
+      "photo": "BAT_C_23",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 24,
+      "name": "Jaidur",
+      "photo": "BAT_C_24",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 25,
+      "name": "Obaidul",
+      "photo": "BAT_C_25",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 26,
+      "name": "Hasan",
+      "photo": "BAT_C_26",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 27,
+      "name": "Abul Hasnat",
+      "photo": "BAT_C_27",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 28,
+      "name": "Amirul",
+      "photo": "BAT_C_28",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
     },
     {
       "id": 29,
-      "name": "Yamin",
-      "photo": "https://i.ibb.co/s3yjzsb/Bat-C-29.jpg",
-      "designation": "Assistant Manager",
-      "office": "ICT",
+      "name": "Alamgir",
+      "photo": "BAT_C_29",
+      "designation": "",
+      "office": "",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 30,
-      "name": "Sagar Robi",
-      "photo": "https://i.ibb.co/6mPB1QP/Bat-C-30.jpg",
-      "designation": "Operator",
-      "office": "ICT",
+      "name": "Tarikul",
+      "photo": "BAT_C_30",
+      "designation": "",
+      "office": "",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 31,
-      "name": "Bipul",
-      "photo": "https://i.ibb.co/6n0Qt0P/Bat-C-31.jpg",
-      "designation": "OPERATOR",
-      "office": "ICT",
+      "name": "Masud",
+      "photo": "BAT_C_31",
+      "designation": "",
+      "office": "",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 32,
-      "name": "Imran",
-      "photo": "https://i.ibb.co/NxkHSWP/Bat-C-32.jpg",
-      "designation": "Deputy Manager",
-      "office": "RAO",
+      "name": "Nandan Roy",
+      "photo": "BAT_C_32",
+      "designation": "",
+      "office": "",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     },
     {
       "id": 33,
-      "name": "Awal",
-      "photo": "https://i.ibb.co/P5wwgr8/Bat-C-33.jpg",
-      "designation": " ",
-      "office": "Finance",
+      "name": "Potu Chandra",
+      "photo": "BAT_C_33",
+      "designation": "",
+      "office": "",
       "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 34,
-      "name": "Alamgir",
-      "photo": "BAT_C_34",
-      "designation": "MLSS",
-      "office": "RAO",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 35,
-      "name": "Azam",
-      "photo": "https://i.ibb.co/BgR4NT1/Bat-C-35.jpg",
-      "designation": "MLSS",
-      "office": "Audit",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 36,
-      "name": "Tanvir Alam",
-      "photo": "https://i.ibb.co/QCLLdPq/Bat-C-36.jpg",
-      "designation": "Assistant Engineer",
-      "office": "Renewable",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 37,
-      "name": "Abdullah",
-      "photo": "https://i.ibb.co/Sc3D0ry/Bat-C-37.jpg",
-      "designation": "Operator",
-      "office": "ICT",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 38,
-      "name": "Monowar",
-      "photo": "https://i.ibb.co/g41xqVf/Bat-C-38.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": " SnD Bimanbandor",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 39,
-      "name": "Torikul Islam",
-      "photo": "https://i.ibb.co/sKYh58K/Bat-C-39.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": " SnD Bimanbandor",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 40,
-      "name": "Chandon",
-      "photo": "https://i.ibb.co/jr6TvkN/Bat-C-40.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": " SnD Bimanbandor",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 41,
-      "name": "Yousuf Ali",
-      "photo": "https://i.ibb.co/r3XZHHf/Bat-C-41.jpg",
-      "designation": "Junior Assistant Manager",
-      "office": " SnD Bimanbandor",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 42,
-      "name": "Sabbir",
-      "photo": "https://i.ibb.co/Rg4Ls14/Bat-C-42.jpg",
-      "designation": "Assistant Manager",
-      "office": " ICT",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 43,
-      "name": "Tutul",
-      "photo": "https://i.ibb.co/Lk8G0cY/Bat-C-43.jpg",
-      "designation": "Junior Assistant Manager",
-      "office": "RAO",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 44,
-      "name": "Monayem Hossain",
-      "photo": "https://i.ibb.co/gzh9NS0/Bat-C-44.jpg",
-      "designation": "Computer Operator (Outsourcing)",
-      "office": "MD Office",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 45,
-      "name": "Abdul Mannan",
-      "photo": "https://i.ibb.co/r2tj39m/Bat-C-45.jpg",
-      "designation": "Helper",
-      "office": "SnD-3",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
-    },
-    {
-      "id": 46,
-      "name": "Alamgir",
-      "photo": "BAT_C_46",
-      "designation": "MLSS",
-      "office": "Design & Inspection",
-      "speciality": "Batsman",
-      "basePrice": "500000",
-      "category": "C"
+      "basePrice": "500000"
     }
   ]
 }

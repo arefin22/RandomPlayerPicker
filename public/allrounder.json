@@ -2,185 +2,333 @@
   "allrounder_a": [
     {
       "id": 1,
-      "name": "Rajib",
-      "photo": "https://i.ibb.co/McZnvbm/All-A-1.jpg",
-      "designation": "Assistant Engineer",
-      "office": "Smart Meter Project",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Kafu",
+      "photo": "ALL_A_1",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 2,
-      "name": "Ratan",
-      "photo": "https://i.ibb.co/CB46Byp/All-A-2.jpg",
-      "designation": "Assistant Manager",
-      "office": "ICT",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Jahid Khan",
+      "photo": "ALL_A_2",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 3,
-      "name": "Prince",
-      "photo": "https://i.ibb.co/87hRXYL/All-A-3.jpg",
-      "designation": "Doctor",
-      "office": "SE-1",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Atikuzzaman",
+      "photo": "ALL_A_3",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 4,
-      "name": "Mohin",
-      "photo": "https://i.ibb.co/SQ907w1/All-A-4.jpg",
-      "designation": "Security Guard",
-      "office": "SnD-4",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Atik Faisal",
+      "photo": "ALL_A_4",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 5,
-      "name": "Siraj",
-      "photo": "https://i.ibb.co/X3LZNpP/All-A-5.jpg",
-      "designation": "Deputy Manager",
-      "office": "ICT",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Mahmud Rony",
+      "photo": "ALL_A_5",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 6,
-      "name": "Sajal",
-      "photo": "https://i.ibb.co/5v5bMfF/All-A-6.jpg",
-      "designation": "MLSS",
-      "office": "Rajshahi Project",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Sojol",
+      "photo": "ALL_A_6",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 7,
-      "name": "Anwar",
-      "photo": "https://i.ibb.co/RpBrFYx/All-A-7.jpg",
-      "designation": "Sub-Divisional Engineer",
-      "office": "Procurement",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Siraj",
+      "photo": "ALL_A_7",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 8,
-      "name": "Gulzar",
-      "photo": "https://i.ibb.co/2hykCVY/All-A-8.jpg",
-      "designation": "OPERATOR",
-      "office": "ICT",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Asif",
+      "photo": "ALL_A_8",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 9,
-      "name": "Fahim",
-      "photo": "https://i.ibb.co/fpNdbz2/All-A-9.jpg",
-      "designation": "MLSS",
-      "office": "RAO",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Mostofa",
+      "photo": "ALL_A_9",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Golam Morshed",
+      "photo": "ALL_A_10",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Gulzar",
+      "photo": "ALL_A_11",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Doctor",
+      "photo": "ALL_A_12",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Ashikur Rahman",
+      "photo": "ALL_A_13",
+      "speciality": "All",
+      "basePrice": "500000"
     }
   ],
+
   "allrounder_b": [
     {
       "id": 1,
-      "name": "Pappu Mia",
-      "photo": "https://i.ibb.co/Sn05j5H/All-BC-1.jpg",
-      "designation": "Junior Assistant Manager",
-      "office": "Rajshahi Project",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Hridoy",
+      "photo": "ALL_B_1",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 2,
-      "name": "Alamin",
-      "photo": "https://i.ibb.co/jM20mVz/All-BC-2.jpg",
-      "designation": "Deputy Manager",
-      "office": "ICT",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Muhin",
+      "photo": "ALL_B_2",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 3,
-      "name": "Robiul",
-      "photo": "https://i.ibb.co/fFnzpMB/ALl-BC-3.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "SE(EE)",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Jewel",
+      "photo": "ALL_B_3",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 4,
-      "name": "Gazi",
-      "photo": "https://i.ibb.co/PD8qZ4K/All-BC-4.jpg",
-      "designation": "OPERATOR",
-      "office": "ICT",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Bikash",
+      "photo": "ALL_B_4",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 5,
-      "name": "Ashiq Iqbal",
-      "photo": "https://i.ibb.co/7QWKbch/All-BC-5.jpg",
-      "designation": "Deputy Manager",
-      "office": "DGM (Accounts)",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Sabbir",
+      "photo": "ALL_B_5",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 6,
-      "name": "Al Masud",
-      "photo": "https://i.ibb.co/gDm75SM/All-BC-6.jpg",
-      "designation": "Meter Reader",
-      "office": "Kashiadanga",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Abid",
+      "photo": "ALL_B_6",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 7,
-      "name": "Sumon",
-      "photo": "https://i.ibb.co/VY7CfVy/All-BC-7.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "Protection",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Hafizur",
+      "photo": "ALL_B_7",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 8,
-      "name": "MAHABUB SHEIKH",
-      "photo": "https://i.ibb.co/6WpPhM6/All-BC-8.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "SnD-2",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Ashik Iqbal",
+      "photo": "ALL_B_8",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 9,
-      "name": "Sabbir",
-      "photo": "ALL_BC_9",
-      "designation": "MLSS",
-      "office": "RAO",
-      "speciality": "Allrounder",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Mizhazul",
+      "photo": "ALL_B_9",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Shihab",
+      "photo": "ALL_B_10",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Abu Sayeed",
+      "photo": "ALL_B_11",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Gazi",
+      "photo": "ALL_B_12",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Kabira Das",
+      "photo": "ALL_B_13",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Abu Sayem",
+      "photo": "ALL_B_14",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Dipu Devnath",
+      "photo": "ALL_B_15",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 16,
+      "name": "Mahfuz",
+      "photo": "ALL_B_16",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 17,
+      "name": "Ruhul Amin",
+      "photo": "ALL_B_17",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 18,
+      "name": "Sanowar",
+      "photo": "ALL_B_18",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 19,
+      "name": "Rasel",
+      "photo": "ALL_B_19",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 20,
+      "name": "Raihan Kabir",
+      "photo": "ALL_B_20",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 21,
+      "name": "Rabiul",
+      "photo": "ALL_B_21",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 22,
+      "name": "Bishal Babu",
+      "photo": "ALL_B_22",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 23,
+      "name": "Ataur Rahman",
+      "photo": "ALL_B_23",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ],
+
+  "allrounder_c": [
+    {
+      "id": 1,
+      "name": "Mohaimiul",
+      "photo": "ALL_C_1",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Salman",
+      "photo": "ALL_C_2",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Ruhul Amin",
+      "photo": "ALL_C_3",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Sabuz Aktar",
+      "photo": "ALL_C_4",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Sabbir Sarker",
+      "photo": "ALL_C_5",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Shafiq",
+      "photo": "ALL_C_6",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Shawon Rahman",
+      "photo": "ALL_C_7",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Raihan Kabir",
+      "photo": "ALL_C_8",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
     }
   ]
 }

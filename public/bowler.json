@@ -2,145 +2,99 @@
   "bowler_a": [
     {
       "id": 1,
-      "name": "MD. ATICK FAISAL",
-      "photo": "https://i.ibb.co/bRLjwtn/Bowl-A-1.jpg",
-      "designation": "LEM (Outsourcing)",
-      "office": "SnD-2",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Fahim",
+      "photo": "BOWL_A_1",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 2,
-      "name": "Md. Imrul Kayes",
-      "photo": "https://i.ibb.co/v1D4tZt/Bowl-A-2.jpg",
-      "designation": "Assistant Manager",
-      "office": "HR & Admin",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Sajedur Rahman",
+      "photo": "BOWL_A_2",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 3,
-      "name": "Mohiuddin Babu",
-      "photo": "https://i.ibb.co/HVsFnFn/Bowl-A-3.jpg",
-      "designation": "Meter Reader",
-      "office": "SnD-4",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Mohiuddin",
+      "photo": "BOWL_A_3",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 4,
-      "name": "Rakibul Islam",
-      "photo": "https://i.ibb.co/FWHXwQr/Bowl-A-4.jpg",
-      "designation": "Helper",
-      "office": "SnD-5",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Kamirul",
+      "photo": "BOWL_A_4",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 5,
-      "name": "Toufiq",
-      "photo": "https://i.ibb.co/PhJ3GYL/Bowl-A-5.jpg",
-      "designation": "Assistant Manager",
-      "office": "RAO",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Taufique",
+      "photo": "BOWL_A_5",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 6,
-      "name": "Shakir",
-      "photo": "https://i.ibb.co/wWtwnM0/Bowl-A-6.jpg",
-      "designation": "Outsourcing",
-      "office": "GIS",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "A"
+      "name": "Sanowar",
+      "photo": "BOWL_A_6",
+      "speciality": "All",
+      "basePrice": "500000"
     }
   ],
+
   "bowler_b": [
     {
       "id": 1,
-      "name": "Ruhul Amin Rubel",
-      "photo": "https://i.ibb.co/sVpy114/Bowl-BC-1.jpg",
-      "designation": "Security Guard",
-      "office": "SnD-2",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Asadul",
+      "photo": "BOWL_B_1",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 2,
-      "name": "Rajib Hossain",
-      "photo": "https://i.ibb.co/rvxKd2s/Bowl-BC-2.jpg",
-      "designation": "MLSS",
-      "office": "Rangpur Project",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Jony Ahammed",
+      "photo": "BOWL_B_2",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
       "id": 3,
-      "name": "Sanwar",
-      "photo": "https://i.ibb.co/db9mdty/Bowl-BC-3.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "Protection",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
+      "name": "Showkhin",
+      "photo": "BOWL_B_3",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ],
+
+  "bowler_c": [
+    {
+      "id": 1,
+      "name": "Azam",
+      "photo": "BOWL_C_1",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
-      "id": 4,
-      "name": "Nisan",
-      "photo": "https://i.ibb.co/bNHPx51/Bowl-BC-4.jpg",
-      "designation": "MLSS",
-      "office": "CIVIL",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
+      "id": 2,
+      "name": "Muhammad Ali",
+      "photo": "BOWL_C_2",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
     },
     {
-      "id": 5,
-      "name": "Rasel",
-      "photo": "https://i.ibb.co/WGNgbLg/Bowl-BC-5.jpg",
-      "designation": "MLSS",
-      "office": "CE(Engineering)",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 6,
-      "name": "Sazzad",
-      "photo": "https://i.ibb.co/5YBLcpM/Bowl-BC-6.jpg",
-      "designation": "Sub-Assistant Engineer",
-      "office": "SE(EE)",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 7,
-      "name": "Hafizur Rahman",
-      "photo": "https://i.ibb.co/XC6Nm7s/Bowl-BC-7.jpg",
-      "designation": "Meter Reader",
-      "office": "Kashiadanga",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
-    },
-    {
-      "id": 8,
-      "name": "Mohammad Ali",
-      "photo": "BOWL_BC_8",
-      "designation": "Computer Operator(Outsourcing)",
-      "office": "HR & Admin",
-      "speciality": "Bowler",
-      "basePrice": "500000",
-      "category": "B"
+      "id": 3,
+      "name": "Mufti Al Imran",
+      "photo": "BOWL_C_3",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
     }
   ]
 }

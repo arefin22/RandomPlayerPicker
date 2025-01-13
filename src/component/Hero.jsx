@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <h1 className="mb-5 text-7xl text-white font-bold">
-          NESCO Franchise League (NFL) 2024
+          NESCO Franchise League (NFL) 2025
         </h1>
       </div>
     </div>
